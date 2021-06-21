@@ -1,0 +1,18 @@
+{
+  "name": "NodeMultithreadTest",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "testing nodeJS workes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Severin Reifler",
+  "license": "ISC",
+  "dependencies": {
+    "worker-nodes": "^2.3.1"
+  }
+}
